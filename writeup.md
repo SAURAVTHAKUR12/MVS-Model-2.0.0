@@ -19,10 +19,11 @@ MIT Virtual Source Model 2.0.0
   * Used online simulation tool [SCHRED](https://nanohub.org/resources/221) to understand this nanoscale even in better way. 
   
 **Project Resources:**  
+>
 * [MVS Model 2.0.0](https://nanohub.org/publications/74/1)
-* [Presentations]()
+* [Presentations](http://home.iitk.ac.in/~sauravt/MVS/)
 
-**RTE Day Presentation:** [Click here](www.google.com)
+[**RTE Day Presentation:**] (http://home.iitk.ac.in/~sauravt/MVS/)
 
 **Software/Libraries used:** MATLAB, SCHRED(nanoHUB online tool)
 
