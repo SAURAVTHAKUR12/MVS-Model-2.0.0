@@ -10,7 +10,7 @@ MIT Virtual Source Model 2.0.0
 **Mentor**:
   * Professor [Shaloo Rakheja](http://engineering.nyu.edu/people/shaloo-rakheja), Department of *Electrical and Computer Engineering*, *New York University*
 
-**Project Description:**
+**Description:**
   * The MVS 2.0.0 model is semi empirical model that incorporates the lowering of the virtual source (the peak of the energy band also known as top of barrier) charge due non-equilibrium transport.
   * Understood the charge model of MVS (MIT Virtual Source) model 2.0.0. The project required some background knowledge that was mostly covered by course on nanoHUB-U on nano-transistors and the rest was covered by other resources. 
   * Simulated the MATLAB code of both MVS 1.1 and MVS 2.0.0 models and the results were compared (of MVS 2.0.0) to real life data of InGaAs HEMT and ET-SOI devices (data already in the complete bundle).
@@ -19,7 +19,6 @@ MIT Virtual Source Model 2.0.0
   * Used online simulation tool [SCHRED](https://nanohub.org/resources/221) to understand this nanoscale even in better way. 
   
 **Project Resources:**  
->
 * [MVS Model 2.0.0](https://nanohub.org/publications/74/1)
 * [Presentations](http://home.iitk.ac.in/~sauravt/MVS/)
 
