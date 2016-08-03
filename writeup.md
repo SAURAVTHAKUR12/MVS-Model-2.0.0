@@ -3,7 +3,7 @@ title: View-based Adaptive Streaming
 layout: post
 excerpt_separator: <!--more-->
 ---
-##SAURAV THAKUR
+**SAURAV THAKUR**  
 **3rd Year Undergraduate Student**  
 **Department of** *Electrical Engineering*  
 **Indian Institute of Technology Kanpur**  
