@@ -1,10 +1,16 @@
+---
+title: View-based Adaptive Streaming
+layout: post
+excerpt_separator: <!--more-->
+---
 SAURAV THAKUR
 ============
 **3rd Year Undergraduate Student**  
 **Department of** *Electrical Engineering*  
 **Indian Institute of Technology Kanpur**  
 *Email: [sauravt@iitk.ac.in](mailto:sauravt@iitk.ac.in) Homepage: [Click here](http://home.iitk.ac.in/~sauravt)*
-
+<!--more-->
+<hr>
 MIT Virtual Source Model 2.0.0
 --------------------------------------------------------------------------
 **Mentor**:
